@@ -19,6 +19,7 @@
     "testFiles": [
         "test.ts"
     ],
+    "public": true,
     "targetVersions": {
         "branch": "v4.0.9",
         "tag": "v4.0.9",
